@@ -19,4 +19,3 @@ last_btn.addEventListener('click',function(){
   para.style.fontSize='40px'
   para.style.padding='18px'
 })
-console.log(para)
